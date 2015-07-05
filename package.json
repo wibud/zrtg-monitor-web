@@ -1,0 +1,36 @@
+{
+  "name": "zrtg-monitor-web",
+  "version": "0.0.1",
+  "description": "播出监控系统-web端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wibud/zrtg-monitor-web.git"
+  },
+  "author": "wibud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wibud/zrtg-monitor-web/issues"
+  },
+  "homepage": "https://github.com/wibud/zrtg-monitor-web",
+  "devDependencies": {
+    "browserify": "~10.1.0",
+    "globby": "~2.0.0",
+    "gulp": "~3.8.11",
+    "gulp-autoprefixer": "~2.2.0",
+    "gulp-connect": "~2.2.0",
+    "gulp-ignore": "~1.2.1",
+    "gulp-less": "~3.0.3",
+    "gulp-minify-css": "~1.1.1",
+    "gulp-react": "~3.0.1",
+    "gulp-rename": "~1.2.2",
+    "gulp-rimraf": "~0.1.1",
+    "gulp-uglify": "~1.2.0",
+    "gulp-util": "~3.0.4",
+    "vinyl-buffer": "~1.0.0",
+    "vinyl-source-stream": "~1.1.0"
+  }
+}
